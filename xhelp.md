@@ -6,6 +6,6 @@
 
 # instalações
 * styled components 
-    [] npm i styled-components
+    [x] npm i styled-components
 * styled components types 
-    [] npm i -D @types/styled-components
+    [x] npm i -D @types/styled-components
