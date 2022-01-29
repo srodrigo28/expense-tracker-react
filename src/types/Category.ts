@@ -1,5 +1,5 @@
 export type Category = {
-    [tag: string]: {
+    [tag: string] : {
         title: string;
         color: string;
         expense: boolean;
