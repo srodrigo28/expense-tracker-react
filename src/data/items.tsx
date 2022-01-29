@@ -15,5 +15,18 @@ export const items: Item[] = [
     {
         date: new Date(2021, 10, 10),
         category: 'salary', title: 'Salário de Janeiro', value: 5000,
+    },
+    {
+        date: new Date(2022, 1, 1),
+        category: 'salary', title: 'Salário de Janeiro', value: 5000,
+    }
+    ,
+    {
+        date: new Date(2022, 1, 1),
+        category: 'salary', title: 'Salário de Janeiro', value: 5000,
+    }  ,
+    {
+        date: new Date(2022, 1, 29),
+        category: 'salary', title: 'Salário de Janeiro', value: 5000,
     }
 ]
